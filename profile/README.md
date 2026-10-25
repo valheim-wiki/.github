@@ -4,11 +4,11 @@ Find your way through Valheim, plan your next trip and get more from the materia
 
 ## Keep your bearings while you play
 
-The Live Seed Map companion mod puts your character and nearby creatures on your world map. Keep it open on a second screen as you explore.
+The Realtime Map from seed companion mod puts your character and nearby creatures on your world map. Keep it open on a second screen as you explore.
 
 ![The connected Valheim map showing the player, nearby creatures, their stars and distances](https://raw.githubusercontent.com/valheim-wiki/live-seed-map/main/listing/screenshots/map-player.png)
 
-[Open the map](https://thevalheim.wiki/map) · [Set up Live Seed Map](https://thevalheim.wiki/guides/live-seed-map) · [Download the mod](https://github.com/valheim-wiki/live-seed-map/releases/latest)
+[Open the map](https://thevalheim.wiki/map) · [Set up Realtime Map from seed](https://thevalheim.wiki/guides/live-seed-map) · [Download the mod](https://github.com/valheim-wiki/live-seed-map/releases/latest)
 
 ## Find the next place to explore
 
@@ -62,6 +62,6 @@ Check a creature's health, attacks, weaknesses and drops before you head out.
 
 ## Downloads and support
 
-- [Live Seed Map](https://github.com/valheim-wiki/live-seed-map) — source and downloads.
+- [Realtime Map from seed](https://github.com/valheim-wiki/live-seed-map) — source and downloads.
 - [Valheim mods on Mac](https://thevalheim.wiki/guides/mods-on-mac) — step-by-step setup and the current download status.
 - Follow the project on [Ko-fi](https://ko-fi.com/thevalheimwiki), [Patreon](https://www.patreon.com/TheValheimWiki) or [Buy Me a Coffee](https://buymeacoffee.com/thevalheimwiki).
